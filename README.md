@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/thekalpesh7/skypey/workflows/Node.js%20CI/badge.svg?event=push)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
